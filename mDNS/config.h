@@ -1,9 +1,10 @@
 #ifndef CONFIG_H
 #define CONFIG_H
 
-#define WLAN_SSID "Nome_da_Rede_(SSID)"
-#define WLAN_PASS "Senha_da_Rede"
+// --- CONFIGURAÇÕES DA REDE SEM FIO  ---
+#define WLAN_SSID "SUA_REDE_SEM_FIO"
+#define WLAN_PASS "SENHA_DA_REDE"
 
-#define HOSTNAME "Nome_do_grupo"
-
+// --- HOSTNAME DO DISPOSITIVO ---
+#define HOSTNAME "NOME_DO_GRUPO"
 #endif
