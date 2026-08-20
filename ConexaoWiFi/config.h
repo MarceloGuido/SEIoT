@@ -1,7 +1,10 @@
 #ifndef CONFIG_H
 #define CONFIG_H
 
-#define WLAN_SSID "Etec-IoT"
-#define WLAN_PASS "etecjb*123"
+// --- CONFIGURAÇÕES DA REDE SEM FIO  ---
+#define WLAN_SSID "SUA_REDE_SEM_FIO"
+#define WLAN_PASS "SENHA_DA_REDE"
 
+// --- HOSTNAME DO DISPOSITIVO ---
+#define HOSTNAME "NOME_DO_GRUPO"
 #endif
