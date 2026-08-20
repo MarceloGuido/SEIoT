@@ -1,0 +1,19 @@
+#ifndef CONFIG_H
+#define CONFIG_H
+
+// --- CONFIGURAÇÕES DA REDE SEM FIO  ---
+#define WLAN_SSID "SUA_REDE_SEM_FIO"
+#define WLAN_PASS "SENHA_DA_REDE"
+
+// --- HOSTNAME DO DISPOSITIVO ---
+#define HOSTNAME "NOME_DO_GRUPO"
+
+// --- PINOS DO DISPLAY DHT11 ---
+#define DHT_PIN D6
+#define DHT_TYPE DHT11
+
+// --- PINOS DO DISPLAY TM1637 ---
+#define DISPLAY_CLK D5
+#define DISPLAY_DIO D4
+
+#endif
