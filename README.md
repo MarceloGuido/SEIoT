@@ -5,3 +5,4 @@ Ordem das atividades:
   - mDNS
   - Temperatura
   - IoT
+  - RTOS
